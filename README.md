@@ -69,4 +69,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or feedback, you can reach us at contact@example.com.
+For any inquiries or feedback, you can reach us at murshidmp4@gmail.com.
